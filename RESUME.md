@@ -1,3 +1,1 @@
-Name: Bryden Wu
-Major: Computer Science
-Expected Graduation Date: 2029
+Name: Bryden Wu, Major: Computer Science, Expected Graduation Date: 2029
